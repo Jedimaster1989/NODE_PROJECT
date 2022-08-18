@@ -1,0 +1,19 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "First node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jedimaster1989/NODE_PROJECT.git"
+  },
+  "author": "Jedimaster1989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jedimaster1989/NODE_PROJECT/issues"
+  },
+  "homepage": "https://github.com/Jedimaster1989/NODE_PROJECT#readme"
+}
